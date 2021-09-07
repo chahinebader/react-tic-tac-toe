@@ -1,7 +1,4 @@
-# MGM interview
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project is made as an interview first step for recruiting process within MGM Technology Partners.
 
 ## What is expected from you
 
